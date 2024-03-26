@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9b637a3a-5726-4168-8b0f-f999f8e8a5f7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +60,7 @@
       <updated>1711420071222</updated>
       <workItem from="1711420072280" duration="202000" />
       <workItem from="1711420437925" duration="199000" />
-      <workItem from="1711420803187" duration="1543000" />
+      <workItem from="1711420803187" duration="2757000" />
     </task>
     <servers />
   </component>
